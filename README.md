@@ -43,4 +43,5 @@ A collection might be useful for sensor reading, input smoothing etc. but less t
 * [SigPack](http://sigpack.sourceforge.net/) - the C++ signal processing library
   * example: [adaptive_filter](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
 * [Q](https://github.com/cycfi/Q) - C++ library for Audio Digital Signal Processing https://www.cycfi.com/
+* [Wavelets-for-SigPack](https://github.com/jpcordovae/Wavelets-for-SigPack) - SigPack library with wavelets added.
 
