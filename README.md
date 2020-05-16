@@ -36,10 +36,11 @@ A collection might be useful for sensor reading, input smoothing etc. but less t
 
 ## Framework
 
+* [Unity-Low Pass Filter](https://forum.unity.com/threads/released-low-pass-filter.321842/) - Unity3D Low Pass Filter package. 
+  * Also available at [AssetStore](https://assetstore.unity.com/packages/tools/input-management/low-pass-filter-18420)
 * [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework
 * [sndfilter](https://github.com/voidqk/sndfilter) - Algorithms for sound filters, like reverb, dynamic range compression, lowpass, highpass, notch, etc
 * [SigPack](http://sigpack.sourceforge.net/) - the C++ signal processing library
   * example: [adaptive_filter](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
-* [Unity-Low Pass Filter](https://forum.unity.com/threads/released-low-pass-filter.321842/) - Unity3D Low Pass Filter package. 
-  * Also available at [AssetStore](https://assetstore.unity.com/packages/tools/input-management/low-pass-filter-18420)
+* [Q](https://github.com/cycfi/Q) - C++ library for Audio Digital Signal Processing https://www.cycfi.com/
 
