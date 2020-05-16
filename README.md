@@ -9,6 +9,8 @@
 * [Low Pass Filter(저주파 통과 필터)](https://gaussian37.github.io/autodrive-ose-low-pass-filter/)
 * [Adaptive Algorithm](https://iamaman.tistory.com/221) - LMS Algorithm
 * [Image Processing with Filters](https://kylog.tistory.com/36)
+* [엑셀에서 저역통과필터 (Low Pass Filter) 구현하기](https://pinkwink.kr/741)
+* [Low-Pass, High-Pass, Bandpass, and Bandstop Filters](http://digitalsoundandmusic.com/7-3-2-low-pass-high-pass-bandpass-and-bandstop-filters/) - Digital Sound & Music: concepts, application and science
 
 ## StackOverflow
 
