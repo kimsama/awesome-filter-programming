@@ -26,6 +26,8 @@ A collection might be useful for sensor reading, input smoothing etc. but less t
 
 * [Python low-pass filter on list of Time/Position](https://stackoverflow.com/questions/45507772/python-low-pass-filter-on-list-of-time-position) 
 
+* [Accelerometer based games smoothness](https://gamedev.stackexchange.com/questions/73087/accelerometer-based-games-smoothness) - Game Development
+
 
 ## Github
 * [unreal-noise-filter-example](https://github.com/emrahgunduz/unreal-noise-filter-example) - HPF/LPF with the example which shows  smoothing change of mouse's x-axis.
