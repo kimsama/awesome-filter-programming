@@ -31,8 +31,9 @@
 * [unreal-noise-filter-example](https://github.com/emrahgunduz/unreal-noise-filter-example) - HPF/LPF with the example which shows  smoothing change of mouse's x-axis.
 * [Applying Low Pass Filter to Android Sensor's Readings](https://github.com/Bhide/Low-Pass-Filter-To-Android-Sensors/blob/master/README.md)
 
-## Library
+## Framework
 
+* [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework
 * [SigPack](http://sigpack.sourceforge.net/) - the C++ signal processing library
 ** [adaptive_filter example](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
 
