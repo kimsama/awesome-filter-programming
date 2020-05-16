@@ -35,5 +35,5 @@
 
 * [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework
 * [SigPack](http://sigpack.sourceforge.net/) - the C++ signal processing library
-** [adaptive_filter example](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
+ ** [adaptive_filter example](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
 
