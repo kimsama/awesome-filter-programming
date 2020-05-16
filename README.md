@@ -30,6 +30,7 @@ A collection might be useful for sensor reading, input smoothing etc. but less t
 ## Github
 * [unreal-noise-filter-example](https://github.com/emrahgunduz/unreal-noise-filter-example) - HPF/LPF with the example which shows  smoothing change of mouse's x-axis.
 * [Applying Low Pass Filter to Android Sensor's Readings](https://github.com/Bhide/Low-Pass-Filter-To-Android-Sensors/blob/master/README.md)
+* [Sample Calculation from Gyro and Accelerometer to Position](https://github.com/ejborges/FlyAR/wiki/Sample-Calculation-from-Gyro-and-Accelerometer-to-Position) 
 
 ## Framework
 
