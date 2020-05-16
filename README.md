@@ -37,5 +37,5 @@ A collection might be useful for sensor reading, input smoothing etc. but less t
 * [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework
 * [sndfilter](https://github.com/voidqk/sndfilter) - Algorithms for sound filters, like reverb, dynamic range compression, lowpass, highpass, notch, etc
 * [SigPack](http://sigpack.sourceforge.net/) - the C++ signal processing library
-  * [adaptive_filter example](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
+  * example: [adaptive_filter](http://sigpack.sourceforge.net/adaptive_filter_8cpp-example.html)
 
