@@ -1,6 +1,6 @@
 # awesome-filter-programming
 
-
+A collection might be useful for sensor reading, input smoothing etc. but less than digital sound processing.
 
 ## Theory
 
