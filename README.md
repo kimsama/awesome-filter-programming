@@ -27,7 +27,7 @@
 * [Python low-pass filter on list of Time/Position](https://stackoverflow.com/questions/45507772/python-low-pass-filter-on-list-of-time-position) 
 
 
-## github
+## Github
 * [unreal-noise-filter-example](https://github.com/emrahgunduz/unreal-noise-filter-example) - HPF/LPF with the example which shows  smoothing change of mouse's x-axis.
 * [Applying Low Pass Filter to Android Sensor's Readings](https://github.com/Bhide/Low-Pass-Filter-To-Android-Sensors/blob/master/README.md)
 
